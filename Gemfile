@@ -43,3 +43,6 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+gem 'execjs', '2.0.2'
+gem 'therubyracer', '0.11.4'
